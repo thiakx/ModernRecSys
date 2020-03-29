@@ -1,1 +1,1 @@
-# visual_recsys
+# ModernRecSys
